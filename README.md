@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @8ahmad1
-- 👀 I’m interested in Python , HTML, CSS, Java , C# , Gaming 🎮  and everything that is related to Computers 💻
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+I dont know what to write here so i dont look like a nerd.
+Friends call me Reza, Python is my field right now, but i mostly waste my time leveling alts on WoW (RIP TurtleWoW)
 
 <!---
 8ahmad1/8ahmad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
